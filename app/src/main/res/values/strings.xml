@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FacebookTimeLine</string>
+    <string name="todo">todo</string>
+    <string name="create_post">Create Post</string>
+    <string name="post">Post</string>
+    <string name="what">What\'s on your mind?</string>
+    <string name="and">Android Programming</string>
+    <string name="facebook">facebook</string>
+    <string name="cr">Create Story</string>
+    <dimen name="image_db">20dp</dimen>
+    <string name="comment">Comment</string>
+    <string name="like">Like</string>
+    <string name="share">Share</string>
+    <string name="live">Live</string>
+    <string name="room">Room</string>
+    <string name="photo">Photo</string>
+    <string name="_154_">145</string>
+</resources>
